@@ -2,7 +2,7 @@
   "name": "run-in-indesign",
   "main": "./lib/run-in-indesign",
   "version": "0.1.1",
-  "description": "A package to run InDesign Extendscripts from Atom",
+  "description": "A package to run InDesign Extendscripts from Atom (macOS only). Still a work in progress",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "run-in-indesign:execute"
