@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "shift-cmd-b": "run-in-indesign:execute"
+    "alt-cmd-b": "run-in-indesign:execute"
   }
 }
