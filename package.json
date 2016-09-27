@@ -1,7 +1,7 @@
 {
   "name": "run-in-indesign",
   "main": "./lib/run-in-indesign",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A package to run InDesign (CC 2015) Extendscripts from Atom (macOS only). Still a work in progress",
   "keywords": [],
   "activationCommands": {
