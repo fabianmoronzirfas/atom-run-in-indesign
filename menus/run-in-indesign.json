@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Execute run-in-indesign",
+        "command": "run-in-indesign:execute"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "run-in-indesign",
+          "submenu": [
+            {
+              "label": "Execute",
+              "command": "run-in-indesign:execute"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

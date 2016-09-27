@@ -1,0 +1,18 @@
+{
+  "name": "run-in-indesign",
+  "main": "./lib/run-in-indesign",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "run-in-indesign:execute"
+  },
+  "repository": "https://github.com/fabianmoronzirfas/atom-run-in-indesign",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
